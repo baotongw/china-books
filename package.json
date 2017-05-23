@@ -1,0 +1,28 @@
+{
+  "name": "china-books",
+  "version": "1.0.0",
+  "description": "The repository to hold the Chinese old books",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdwangbaotong/china-books.git"
+  },
+  "keywords": [
+    "Chinese",
+    "book"
+  ],
+  "author": "baotong.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdwangbaotong/china-books/issues"
+  },
+  "homepage": "https://github.com/sdwangbaotong/china-books#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "extend": "^3.0.1",
+    "superagent": "^3.5.2"
+  }
+}
